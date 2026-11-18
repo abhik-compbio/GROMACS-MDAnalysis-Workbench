@@ -129,8 +129,16 @@ test_analysis.py        Synthetic-trajectory smoke test
 
 ## Citing underlying software
 
-This repository builds on [GROMACS](https://www.gromacs.org/), [MDAnalysis](https://www.mdanalysis.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), and [VMD](https://www.ks.uiuc.edu/Research/vmd/). When using the tool in a publication, cite the relevant upstream software and methods as well as any repository release/DOI you publish.
+This repository builds on [GROMACS](https://www.gromacs.org/), [MDAnalysis](https://www.mdanalysis.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), and [VMD](https://www.ks.uiuc.edu/Research/vmd/). When using the tool in a publication, cite the relevant upstream software and methods.
 
-## License
+## Contact
 
-**No license is granted by this repository until a `LICENSE` file is added.** Choose and add a license only after confirming rights to distribute all source code and any third-party components. GitHub's repository license picker can help select an appropriate open-source license.
+**Developer:** Dr. Abhik Ghosh Moulick
+
+**GitHub:** [abhik-compbio](https://github.com/abhik-compbio)
+
+For technical issues, bug reports, suggestions, or commercial licensing inquiries, please contact:
+
+**Email:** abhik.ghoshmoulick@gmail.com
+
+Alternatively, open an issue on the [GitHub repository](https://github.com/abhik-compbio/GROMACS-MDAnalysis-Workbench/issues).
